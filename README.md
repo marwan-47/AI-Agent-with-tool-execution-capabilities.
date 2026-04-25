@@ -164,4 +164,4 @@ For issues, questions, or feature requests, please open an issue in the reposito
 
 ---
 
-**Built with** 🤖 **Ollama** | **OpenAI SDK** | **Pydantic**
+**Built with**  **Ollama** | **OpenAI SDK** | **Pydantic**
